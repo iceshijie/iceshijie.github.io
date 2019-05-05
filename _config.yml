@@ -1,10 +1,10 @@
 # Site settings
-title: BY Blog
-SEOTitle: 冰世界的博客 | BY Blog
+title: BSJ Blog
+SEOTitle: 冰世界的博客 | BSJ Blog
 header-img: img/post-bg-desk.jpg
 email: iceshijie@gmail.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 冰世界的博客"
+keyword: "BSJ, BSJ Blog, 冰世界的博客"
 url: "http://iceshijie.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/iceshijie/iceshijie.github.io.git" # you code repository
@@ -102,7 +102,7 @@ friends: [
         title: "WY",
         href: ""
     },{
-        title: "简书·BY",
+        title: "简书·",
         href: ""
     },{
         title: "Apple",
