@@ -1,6 +1,6 @@
 
 
-![](https://raw.githubusercontent.com/iceshijie/iceshijie.github.io/master/img/readme-home.png)
+![]
 
 [![Build Status](https://travis-ci.org/iceshijie/iceshijie.github.io.svg?branch=master)](https://travis-ci.org/iceshijie/iceshijie.github.io)
 [![codebeat badge](https://codebeat.co/badges/5f031df3-f6c1-4ec0-911a-ff6617ca50b9)](https://codebeat.co/projects/github-com-iceshijie-iceshijie-github-io-master)
@@ -12,7 +12,7 @@
 
 博客的搭建教程修改自 [Hux](https://github.com/Huxpro/huxpro.github.io) 
  
-更为详细的教程戳这 [《利用 GitHub Pages 快速搭建个人博客》](http://www.jianshu.com/p/e68fba58f75c) 或 [wiki](https://github.com/iceshijie/iceshijie.github.io/wiki/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B)
+更为详细的教程戳这 [《利用 GitHub Pages 快速搭建个人博客》]() 或 [wiki]
 
 >
 ### [查看博客戳这里 👆](http://iceshijie.github.io)
@@ -92,7 +92,7 @@ tags:
 ### 侧边栏
 
 看右边:
-![](https://raw.githubusercontent.com/iceshijie/iceshijie.github.io/master/img/readme-side.png)
+![]
 
 设置是在 `_config.yml`文件里面的`Sidebar settings`那块。
 
